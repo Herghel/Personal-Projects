@@ -26,7 +26,7 @@ Senzorii colectează datele de pe machetă și le trimit la Arduino, Arduino tri
  
 | Componentă | Rol |
 |---|---|
-| Arduino Mega 2560 | Unitatea centrală de procesare |
+| [Arduino Mega 2560](./Cablare%20componente%20hardware.jpeg) | Unitatea centrală de procesare |
 | Modul Bluetooth HC-05 | Comunicare Arduino ↔ Android |
 | 6 x senzori obstacol IR | Detectare ocupare loc de parcare |
 | Servo SG90 | Acționare barieră |
