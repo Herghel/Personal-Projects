@@ -73,7 +73,7 @@ Aplicația mobilă a fost dezvoltată de la zero în Android Studio, folosind **
  
 ##  Interfața grafică
  
-Interfața grafică a aplicației cuprinde o bară de navigație inferioară cu trei tab-uri (**PARCARE**, **ISTORIC** și **SETĂRI**), o grilă de 6 locuri de parcare codificate cromatic, un panou de informații cu numărul de locuri libere și butoanele **INTRARE / IEȘIRE / PLATĂ**, și un panou de status care afișează ultimul eveniment produs. Codificarea cromatică (verde = liber, roșu = ocupat) este intuitivă și conformă cu convenția internațională din parcările convenționale. Codul este disponibil in Anexa B.
+Interfața grafică a aplicației cuprinde o bară de navigație inferioară cu trei tab-uri (**PARCARE**, **ISTORIC** și **SETĂRI**), o grilă de 6 locuri de parcare codificate cromatic, un panou de informații cu numărul de locuri libere și butoanele **INTRARE / IEȘIRE / PLATĂ**, și un panou de status care afișează ultimul eveniment produs. Codificarea cromatică (verde = liber, roșu = ocupat) este intuitivă și conformă cu convenția internațională din parcările convenționale. Codul este disponibil in [Anexa B](./Anexa%20B.txt).
  
 <p align="center">
   <img width="220" alt="Ecran principal - locuri de parcare" src="https://github.com/user-attachments/assets/b14becf3-0f84-4dfe-8f71-a154af41d6ff" />
